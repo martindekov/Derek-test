@@ -1,1 +1,6 @@
-redirect: https://raw.githubusercontent.com/openfaas/faas/master/.DEREK.yml
+maintainers:
+ - mrtind
+
+features:
+ - dco_check
+ - comments
